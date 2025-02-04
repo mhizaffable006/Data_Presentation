@@ -29,20 +29,18 @@ Here, we are to the following with the loaded dataset for analysis.
 Using PIVOT tables and charts, we are to show the relationship between
 
   a. The average income of each gender and their bike purchase history
-  
-    ![pivot table   chart 1](https://github.com/user-attachments/assets/7dc890bc-877d-4d30-bab1-5a6ced8da198)
+  ![pivot table   chart 1](https://github.com/user-attachments/assets/0889f12c-d08d-4f5a-b8c0-aaa59cd721c7)
 
-
+   
   
   b. Distance travelled by commuters and bike purchase
-    
-    ![pivot table   chart 2](https://github.com/user-attachments/assets/e91cb787-eec5-47e9-a61d-29700440fbd2)
+    ![pivot table   chart 2](https://github.com/user-attachments/assets/a7314d95-46fb-4c9d-8d1a-816b0afee9ba)
 
-
+   
   
   c. Age bracket and bike purchase.
   
-    ![pivot table   chart 3](https://github.com/user-attachments/assets/a2b8bba7-d3f7-4039-925b-c6610df9bc8c)
+   ![pivot table   chart 3](https://github.com/user-attachments/assets/6636a92c-dfda-4db1-a670-8afa182c5f0d)
 
 
     
